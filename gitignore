@@ -1,0 +1,6 @@
+
+# Ignore everything in the db directory
+db/*
+
+# Except for the .gitignore file itself
+!db/.gitignore
