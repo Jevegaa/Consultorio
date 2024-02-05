@@ -2,7 +2,7 @@ package evidenciaFinal;
 
 import java.io.*;
 import java.util.*;
-
+//prueba brach crear_cita
 public class Consultorio {
 	// Scanner para la entrada de datos del usuario.
     private static final Scanner scanner = new Scanner(System.in);
